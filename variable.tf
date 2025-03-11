@@ -1,7 +1,7 @@
 variable "aws_access_key" {
   description = "AWS access key"
   type        = string
-  default     = "terraform-automation"
+  default     = ""
 }
 
 variable "aws_secret_key" {
